@@ -5,63 +5,64 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
 public class PlayerController : MonoBehaviour {
 
-    private float walkSpeed = 2f;
-    public float runSpeed = 4;
+    private bool walking;
+    private bool mountainClicked;
+
+    private Vector2 currentVelocityMod;
+    private Transform targetedMountain;
     private CharacterController controller;
     private Camera camera;
-    private Vector2 mousClickPos;
-    private float speed = 2;
-    private float distanceToClick;
+
+    private Ray shootRay;
+    RaycastHit hit;
+
     void Start ()
     {
         controller = GetComponent<CharacterController>();
-        mousClickPos = transform.position;
+       
     }
 	
 	// Update is called once per frame
 	void Update ()
     {
-        ControllWASD();
-        distanceToClick = 0;
+        Controller();
+        
     }
 
-    void ControllWASD()
+    void Controller()
     {
-        camera = Camera.main;
-        Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-        if(Input.GetKeyDown("w"))
-        {
-            input.y += 8;
-        }
-        else
-        {
-            input.y = 0;
-        }
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         
-        if (Input.GetMouseButtonDown(0))
-          {
-             mousClickPos = camera.ScreenToWorldPoint(Input.mousePosition);
-            //distanceToClick = Input.mousePosition.x;
-            Debug.Log("this.x: " + transform.position.x + "mousepos: " + mousClickPos);
-        }
-        if (mousClickPos.x != transform.position.x)
+
+
+        if (Input.GetButtonDown("Fire2"))
         {
-            transform.position = Vector2.MoveTowards(transform.position, mousClickPos, speed * Time.deltaTime);
+            if(Physics.Raycast(ray, out hit, 100))
+            {
+                if(hit.collider.CompareTag("Mountain"))
+                {
+                    targetedMountain = hit.transform;
+                    mountainClicked = true;
+                    Debug.Log("Träff");
+                }
+                else
+                {
+                    walking = true;
+                    mountainClicked = false;
+                    
+                    Debug.Log("Ingen träff");
+                }
+            }           
         }
-        else
+
+        currentVelocityMod = Vector2.MoveTowards(transform.position, hit.point, 2 * Time.deltaTime);
+        if (hit.point.x != transform.position.x)
         {
-            
+            transform.position = new Vector2(currentVelocityMod.x, -2f);
         }
+        //Vector2 motion = currentVelocityMod;
+        //motion += Vector2.up * -8;
+        //controller.Move(motion * Time.deltaTime);
 
-       
-
-        //transform.position = transform.position + input;
-        //currentVolicityMod = Vector2.MoveTowards(currentVolicityMod, input, acceleration * Time.deltaTime);
-        Vector2 motion = input;
-       // motion *= (Mathf.Abs(input.x) == 1 && Mathf.Abs(input.y) == 1) ? 0.7f : 1;
-        motion *= (Input.GetButton("Run")) ? runSpeed : walkSpeed;
-
-        motion += Vector2.up * -1;
-        controller.Move(motion * Time.deltaTime);
     }
 }
