@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 200f6e695ffb86144b0c72878770618a
+timeCreated: 1499000585
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Master_cycle_0
+    21300002: Master_cycle_1
+    21300004: Master_cycle_2
+    21300006: Master_cycle_3
+    21300008: Master_cycle_4
+    21300010: Master_cycle_5
+    21300012: Master_cycle_6
+    21300014: Master_cycle_7
+    21300016: Master_cycle_8
+    21300018: Master_cycle_9
+    21300020: Master_cycle_10
+    21300022: Master_cycle_11
+    21300024: Master_cycle_12
+    21300026: Master_cycle_13
+    21300028: Master_cycle_14
+    21300030: Master_cycle_15
+    21300032: Master_cycle_16
+    21300034: Master_cycle_17
+    21300036: Master_cycle_18
+    21300038: Master_cycle_19
+    21300040: Master_cycle_20
+    21300042: Master_cycle_21
+    21300044: Master_cycle_22
+    21300046: Master_cycle_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master_cycle_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1474
+        width: 262
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1472
+        width: 263
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1472
+        width: 264
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_3
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1472
+        width: 265
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_4
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1473
+        width: 265
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1105
+        width: 266
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1105
+        width: 269
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1105
+        width: 274
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_8
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1105
+        width: 280
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_9
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1106
+        width: 285
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 739
+        width: 288
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 741
+        width: 282
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 744
+        width: 275
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 748
+        width: 268
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_14
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 748
+        width: 263
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 378
+        width: 264
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 373
+        width: 265
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 369
+        width: 265
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_18
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 369
+        width: 265
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_19
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 369
+        width: 265
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 265
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2
+        width: 265
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 263
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Master_cycle_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1
+        width: 263
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1987 @@
+fileFormatVersion: 2
+guid: 72aa1934c47d5b94db0f27dc9991e244
+timeCreated: 1499026948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grey_Idle_0
+    21300002: Grey_Idle_1
+    21300004: Grey_Idle_2
+    21300006: Grey_Idle_3
+    21300008: Grey_Idle_4
+    21300010: Grey_Idle_5
+    21300012: Grey_Idle_6
+    21300014: Grey_Idle_7
+    21300016: Grey_Idle_8
+    21300018: Grey_Idle_9
+    21300020: Grey_Idle_10
+    21300022: Grey_Idle_11
+    21300024: Grey_Idle_12
+    21300026: Grey_Idle_13
+    21300028: Grey_Idle_14
+    21300030: Grey_Idle_15
+    21300032: Grey_Idle_16
+    21300034: Grey_Idle_17
+    21300036: Grey_Idle_18
+    21300038: Grey_Idle_19
+    21300040: Grey_Idle_20
+    21300042: Grey_Idle_21
+    21300044: Grey_Idle_22
+    21300046: Grey_Idle_23
+    21300048: Grey_Idle_24
+    21300050: Grey_Idle_25
+    21300052: Grey_Idle_26
+    21300054: Grey_Idle_27
+    21300056: Grey_Idle_28
+    21300058: Grey_Idle_29
+    21300060: Grey_Idle_30
+    21300062: Grey_Idle_31
+    21300064: Grey_Idle_32
+    21300066: Grey_Idle_33
+    21300068: Grey_Idle_34
+    21300070: Grey_Idle_35
+    21300072: Grey_Idle_36
+    21300074: Grey_Idle_37
+    21300076: Grey_Idle_38
+    21300078: Grey_Idle_39
+    21300080: Grey_Idle_40
+    21300082: Grey_Idle_41
+    21300084: Grey_Idle_42
+    21300086: Grey_Idle_43
+    21300088: Grey_Idle_44
+    21300090: Grey_Idle_45
+    21300092: Grey_Idle_46
+    21300094: Grey_Idle_47
+    21300096: Grey_Idle_48
+    21300098: Grey_Idle_49
+    21300100: Grey_Idle_50
+    21300102: Grey_Idle_51
+    21300104: Grey_Idle_52
+    21300106: Grey_Idle_53
+    21300108: Grey_Idle_54
+    21300110: Grey_Idle_55
+    21300112: Grey_Idle_56
+    21300114: Grey_Idle_57
+    21300116: Grey_Idle_58
+    21300118: Grey_Idle_59
+    21300120: Grey_Idle_60
+    21300122: Grey_Idle_61
+    21300124: Grey_Idle_62
+    21300126: Grey_Idle_63
+    21300128: Grey_Idle_64
+    21300130: Grey_Idle_65
+    21300132: Grey_Idle_66
+    21300134: Grey_Idle_67
+    21300136: Grey_Idle_68
+    21300138: Grey_Idle_69
+    21300140: Grey_Idle_70
+    21300142: Grey_Idle_71
+    21300144: Grey_Idle_72
+    21300146: Grey_Idle_73
+    21300148: Grey_Idle_74
+    21300150: Grey_Idle_75
+    21300152: Grey_Idle_76
+    21300154: Grey_Idle_77
+    21300156: Grey_Idle_78
+    21300158: Grey_Idle_79
+    21300160: Grey_Idle_80
+    21300162: Grey_Idle_81
+    21300164: Grey_Idle_82
+    21300166: Grey_Idle_83
+    21300168: Grey_Idle_84
+    21300170: Grey_Idle_85
+    21300172: Grey_Idle_86
+    21300174: Grey_Idle_87
+    21300176: Grey_Idle_88
+    21300178: Grey_Idle_89
+    21300180: Grey_Idle_90
+    21300182: Grey_Idle_91
+    21300184: Grey_Idle_92
+    21300186: Grey_Idle_93
+    21300188: Grey_Idle_94
+    21300190: Grey_Idle_95
+    21300192: Grey_Idle_96
+    21300194: Grey_Idle_97
+    21300196: Grey_Idle_98
+    21300198: Grey_Idle_99
+    21300200: Grey_Idle_100
+    21300202: Grey_Idle_101
+    21300204: Grey_Idle_102
+    21300206: Grey_Idle_103
+    21300208: Grey_Idle_104
+    21300210: Grey_Idle_105
+    21300212: Grey_Idle_106
+    21300214: Grey_Idle_107
+    21300216: Grey_Idle_108
+    21300218: Grey_Idle_109
+    21300220: Grey_Idle_110
+    21300222: Grey_Idle_111
+    21300224: Grey_Idle_112
+    21300226: Grey_Idle_113
+    21300228: Grey_Idle_114
+    21300230: Grey_Idle_115
+    21300232: Grey_Idle_116
+    21300234: Grey_Idle_117
+    21300236: Grey_Idle_118
+    21300238: Grey_Idle_119
+    21300240: Grey_Idle_120
+    21300242: Grey_Idle_121
+    21300244: Grey_Idle_122
+    21300246: Grey_Idle_123
+    21300248: Grey_Idle_124
+    21300250: Grey_Idle_125
+    21300252: Grey_Idle_126
+    21300254: Grey_Idle_127
+    21300256: Grey_Idle_128
+    21300258: Grey_Idle_129
+    21300260: Grey_Idle_130
+    21300262: Grey_Idle_131
+    21300264: Grey_Idle_132
+    21300266: Grey_Idle_133
+    21300268: Grey_Idle_134
+    21300270: Grey_Idle_135
+    21300272: Grey_Idle_136
+    21300274: Grey_Idle_137
+    21300276: Grey_Idle_138
+    21300278: Grey_Idle_139
+    21300280: Grey_Idle_140
+    21300282: Grey_Idle_141
+    21300284: Grey_Idle_142
+    21300286: Grey_Idle_143
+    21300288: Grey_Idle_144
+    21300290: Grey_Idle_145
+    21300292: Grey_Idle_146
+    21300294: Grey_Idle_147
+    21300296: Grey_Idle_148
+    21300298: Grey_Idle_149
+    21300300: Grey_Idle_150
+    21300302: Grey_Idle_151
+    21300304: Grey_Idle_152
+    21300306: Grey_Idle_153
+    21300308: Grey_Idle_154
+    21300310: Grey_Idle_155
+    21300312: Grey_Idle_156
+    21300314: Grey_Idle_157
+    21300316: Grey_Idle_158
+    21300318: Grey_Idle_159
+    21300320: Grey_Idle_160
+    21300322: Grey_Idle_161
+    21300324: Grey_Idle_162
+    21300326: Grey_Idle_163
+    21300328: Grey_Idle_164
+    21300330: Grey_Idle_165
+    21300332: Grey_Idle_166
+    21300334: Grey_Idle_167
+    21300336: Grey_Idle_168
+    21300338: Grey_Idle_169
+    21300340: Grey_Idle_170
+    21300342: Grey_Idle_171
+    21300344: Grey_Idle_172
+    21300346: Grey_Idle_173
+    21300348: Grey_Idle_174
+    21300350: Grey_Idle_175
+    21300352: Grey_Idle_176
+    21300354: Grey_Idle_177
+    21300356: Grey_Idle_178
+    21300358: Grey_Idle_179
+    21300360: Grey_Idle_180
+    21300362: Grey_Idle_181
+    21300364: Grey_Idle_182
+    21300366: Grey_Idle_183
+    21300368: Grey_Idle_184
+    21300370: Grey_Idle_185
+    21300372: Grey_Idle_186
+    21300374: Grey_Idle_187
+    21300376: Grey_Idle_188
+    21300378: Grey_Idle_189
+    21300380: Grey_Idle_190
+    21300382: Grey_Idle_191
+    21300384: Grey_Idle_192
+    21300386: Grey_Idle_193
+    21300388: Grey_Idle_194
+    21300390: Grey_Idle_195
+    21300392: Grey_Idle_196
+    21300394: Grey_Idle_197
+    21300396: Grey_Idle_198
+    21300398: Grey_Idle_199
+    21300400: Grey_Idle_200
+    21300402: Grey_Idle_201
+    21300404: Grey_Idle_202
+    21300406: Grey_Idle_203
+    21300408: Grey_Idle_204
+    21300410: Grey_Idle_205
+    21300412: Grey_Idle_206
+    21300414: Grey_Idle_207
+    21300416: Grey_Idle_208
+    21300418: Grey_Idle_209
+    21300420: Grey_Idle_210
+    21300422: Grey_Idle_211
+    21300424: Grey_Idle_212
+    21300426: Grey_Idle_213
+    21300428: Grey_Idle_214
+    21300430: Grey_Idle_215
+    21300432: Grey_Idle_216
+    21300434: Grey_Idle_217
+    21300436: Grey_Idle_218
+    21300438: Grey_Idle_219
+    21300440: Grey_Idle_220
+    21300442: Grey_Idle_221
+    21300444: Grey_Idle_222
+    21300446: Grey_Idle_223
+    21300448: Grey_Idle_224
+    21300450: Grey_Idle_225
+    21300452: Grey_Idle_226
+    21300454: Grey_Idle_227
+    21300456: Grey_Idle_228
+    21300458: Grey_Idle_229
+    21300460: Grey_Idle_230
+    21300462: Grey_Idle_231
+    21300464: Grey_Idle_232
+    21300466: Grey_Idle_233
+    21300468: Grey_Idle_234
+    21300470: Grey_Idle_235
+    21300472: Grey_Idle_236
+    21300474: Grey_Idle_237
+    21300476: Grey_Idle_238
+    21300478: Grey_Idle_239
+    21300480: Grey_Idle_240
+    21300482: Grey_Idle_241
+    21300484: Grey_Idle_242
+    21300486: Grey_Idle_243
+    21300488: Grey_Idle_244
+    21300490: Grey_Idle_245
+    21300492: Grey_Idle_246
+    21300494: Grey_Idle_247
+    21300496: Grey_Idle_248
+    21300498: Grey_Idle_249
+    21300500: Grey_Idle_250
+    21300502: Grey_Idle_251
+    21300504: Grey_Idle_252
+    21300506: Grey_Idle_253
+    21300508: Grey_Idle_254
+    21300510: Grey_Idle_255
+    21300512: Grey_Idle_256
+    21300514: Grey_Idle_257
+    21300516: Grey_Idle_258
+    21300518: Grey_Idle_259
+    21300520: Grey_Idle_260
+    21300522: Grey_Idle_261
+    21300524: Grey_Idle_262
+    21300526: Grey_Idle_263
+    21300528: Grey_Idle_264
+    21300530: Grey_Idle_265
+    21300532: Grey_Idle_266
+    21300534: Grey_Idle_267
+    21300536: Grey_Idle_268
+    21300538: Grey_Idle_269
+    21300540: Grey_Idle_270
+    21300542: Grey_Idle_271
+    21300544: Grey_Idle_272
+    21300546: Grey_Idle_273
+    21300548: Grey_Idle_274
+    21300550: Grey_Idle_275
+    21300552: Grey_Idle_276
+    21300554: Grey_Idle_277
+    21300556: Grey_Idle_278
+    21300558: Grey_Idle_279
+    21300560: Grey_Idle_280
+    21300562: Grey_Idle_281
+    21300564: Grey_Idle_282
+    21300566: Grey_Idle_283
+    21300568: Grey_Idle_284
+    21300570: Grey_Idle_285
+    21300572: Grey_Idle_286
+    21300574: Grey_Idle_287
+    21300576: Grey_Idle_288
+    21300578: Grey_Idle_289
+    21300580: Grey_Idle_290
+    21300582: Grey_Idle_291
+    21300584: Grey_Idle_292
+    21300586: Grey_Idle_293
+    21300588: Grey_Idle_294
+    21300590: Grey_Idle_295
+    21300592: Grey_Idle_296
+    21300594: Grey_Idle_297
+    21300596: Grey_Idle_298
+    21300598: Grey_Idle_299
+    21300600: Grey_Idle_300
+    21300602: Grey_Idle_301
+    21300604: Grey_Idle_302
+    21300606: Grey_Idle_303
+    21300608: Grey_Idle_304
+    21300610: Grey_Idle_305
+    21300612: Grey_Idle_306
+    21300614: Grey_Idle_307
+    21300616: Grey_Idle_308
+    21300618: Grey_Idle_309
+    21300620: Grey_Idle_310
+    21300622: Grey_Idle_311
+    21300624: Grey_Idle_312
+    21300626: Grey_Idle_313
+    21300628: Grey_Idle_314
+    21300630: Grey_Idle_315
+    21300632: Grey_Idle_316
+    21300634: Grey_Idle_317
+    21300636: Grey_Idle_318
+    21300638: Grey_Idle_319
+    21300640: Grey_Idle_320
+    21300642: Grey_Idle_321
+    21300644: Grey_Idle_322
+    21300646: Grey_Idle_323
+    21300648: Grey_Idle_324
+    21300650: Grey_Idle_325
+    21300652: Grey_Idle_326
+    21300654: Grey_Idle_327
+    21300656: Grey_Idle_328
+    21300658: Grey_Idle_329
+    21300660: Grey_Idle_330
+    21300662: Grey_Idle_331
+    21300664: Grey_Idle_332
+    21300666: Grey_Idle_333
+    21300668: Grey_Idle_334
+    21300670: Grey_Idle_335
+    21300672: Grey_Idle_336
+    21300674: Grey_Idle_337
+    21300676: Grey_Idle_338
+    21300678: Grey_Idle_339
+    21300680: Grey_Idle_340
+    21300682: Grey_Idle_341
+    21300684: Grey_Idle_342
+    21300686: Grey_Idle_343
+    21300688: Grey_Idle_344
+    21300690: Grey_Idle_345
+    21300692: Grey_Idle_346
+    21300694: Grey_Idle_347
+    21300696: Grey_Idle_348
+    21300698: Grey_Idle_349
+    21300700: Grey_Idle_350
+    21300702: Grey_Idle_351
+    21300704: Grey_Idle_352
+    21300706: Grey_Idle_353
+    21300708: Grey_Idle_354
+    21300710: Grey_Idle_355
+    21300712: Grey_Idle_356
+    21300714: Grey_Idle_357
+    21300716: Grey_Idle_358
+    21300718: Grey_Idle_359
+    21300720: Grey_Idle_360
+    21300722: Grey_Idle_361
+    21300724: Grey_Idle_362
+    21300726: Grey_Idle_363
+    21300728: Grey_Idle_364
+    21300730: Grey_Idle_365
+    21300732: Grey_Idle_366
+    21300734: Grey_Idle_367
+    21300736: Grey_Idle_368
+    21300738: Grey_Idle_369
+    21300740: Grey_Idle_370
+    21300742: Grey_Idle_371
+    21300744: Grey_Idle_372
+    21300746: Grey_Idle_373
+    21300748: Grey_Idle_374
+    21300750: Grey_Idle_375
+    21300752: Grey_Idle_376
+    21300754: Grey_Idle_377
+    21300756: Grey_Idle_378
+    21300758: Grey_Idle_379
+    21300760: Grey_Idle_380
+    21300762: Grey_Idle_381
+    21300764: Grey_Idle_382
+    21300766: Grey_Idle_383
+    21300768: Grey_Idle_384
+    21300770: Grey_Idle_385
+    21300772: Grey_Idle_386
+    21300774: Grey_Idle_387
+    21300776: Grey_Idle_388
+    21300778: Grey_Idle_389
+    21300780: Grey_Idle_390
+    21300782: Grey_Idle_391
+    21300784: Grey_Idle_392
+    21300786: Grey_Idle_393
+    21300788: Grey_Idle_394
+    21300790: Grey_Idle_395
+    21300792: Grey_Idle_396
+    21300794: Grey_Idle_397
+    21300796: Grey_Idle_398
+    21300798: Grey_Idle_399
+    21300800: Grey_Idle_400
+    21300802: Grey_Idle_401
+    21300804: Grey_Idle_402
+    21300806: Grey_Idle_403
+    21300808: Grey_Idle_404
+    21300810: Grey_Idle_405
+    21300812: Grey_Idle_406
+    21300814: Grey_Idle_407
+    21300816: Grey_Idle_408
+    21300818: Grey_Idle_409
+    21300820: Grey_Idle_410
+    21300822: Grey_Idle_411
+    21300824: Grey_Idle_412
+    21300826: Grey_Idle_413
+    21300828: Grey_Idle_414
+    21300830: Grey_Idle_415
+    21300832: Grey_Idle_416
+    21300834: Grey_Idle_417
+    21300836: Grey_Idle_418
+    21300838: Grey_Idle_419
+    21300840: Grey_Idle_420
+    21300842: Grey_Idle_421
+    21300844: Grey_Idle_422
+    21300846: Grey_Idle_423
+    21300848: Grey_Idle_424
+    21300850: Grey_Idle_425
+    21300852: Grey_Idle_426
+    21300854: Grey_Idle_427
+    21300856: Grey_Idle_428
+    21300858: Grey_Idle_429
+    21300860: Grey_Idle_430
+    21300862: Grey_Idle_431
+    21300864: Grey_Idle_432
+    21300866: Grey_Idle_433
+    21300868: Grey_Idle_434
+    21300870: Grey_Idle_435
+    21300872: Grey_Idle_436
+    21300874: Grey_Idle_437
+    21300876: Grey_Idle_438
+    21300878: Grey_Idle_439
+    21300880: Grey_Idle_440
+    21300882: Grey_Idle_441
+    21300884: Grey_Idle_442
+    21300886: Grey_Idle_443
+    21300888: Grey_Idle_444
+    21300890: Grey_Idle_445
+    21300892: Grey_Idle_446
+    21300894: Grey_Idle_447
+    21300896: Grey_Idle_448
+    21300898: Grey_Idle_449
+    21300900: Grey_Idle_450
+    21300902: Grey_Idle_451
+    21300904: Grey_Idle_452
+    21300906: Grey_Idle_453
+    21300908: Grey_Idle_454
+    21300910: Grey_Idle_455
+    21300912: Grey_Idle_456
+    21300914: Grey_Idle_457
+    21300916: Grey_Idle_458
+    21300918: Grey_Idle_459
+    21300920: Grey_Idle_460
+    21300922: Grey_Idle_461
+    21300924: Grey_Idle_462
+    21300926: Grey_Idle_463
+    21300928: Grey_Idle_464
+    21300930: Grey_Idle_465
+    21300932: Grey_Idle_466
+    21300934: Grey_Idle_467
+    21300936: Grey_Idle_468
+    21300938: Grey_Idle_469
+    21300940: Grey_Idle_470
+    21300942: Grey_Idle_471
+    21300944: Grey_Idle_472
+    21300946: Grey_Idle_473
+    21300948: Grey_Idle_474
+    21300950: Grey_Idle_475
+    21300952: Grey_Idle_476
+    21300954: Grey_Idle_477
+    21300956: Grey_Idle_478
+    21300958: Grey_Idle_479
+    21300960: Grey_Idle_480
+    21300962: Grey_Idle_481
+    21300964: Grey_Idle_482
+    21300966: Grey_Idle_483
+    21300968: Grey_Idle_484
+    21300970: Grey_Idle_485
+    21300972: Grey_Idle_486
+    21300974: Grey_Idle_487
+    21300976: Grey_Idle_488
+    21300978: Grey_Idle_489
+    21300980: Grey_Idle_490
+    21300982: Grey_Idle_491
+    21300984: Grey_Idle_492
+    21300986: Grey_Idle_493
+    21300988: Grey_Idle_494
+    21300990: Grey_Idle_495
+    21300992: Grey_Idle_496
+    21300994: Grey_Idle_497
+    21300996: Grey_Idle_498
+    21300998: Grey_Idle_499
+    21301000: Grey_Idle_500
+    21301002: Grey_Idle_501
+    21301004: Grey_Idle_502
+    21301006: Grey_Idle_503
+    21301008: Grey_Idle_504
+    21301010: Grey_Idle_505
+    21301012: Grey_Idle_506
+    21301014: Grey_Idle_507
+    21301016: Grey_Idle_508
+    21301018: Grey_Idle_509
+    21301020: Grey_Idle_510
+    21301022: Grey_Idle_511
+    21301024: Grey_Idle_512
+    21301026: Grey_Idle_513
+    21301028: Grey_Idle_514
+    21301030: Grey_Idle_515
+    21301032: Grey_Idle_516
+    21301034: Grey_Idle_517
+    21301036: Grey_Idle_518
+    21301038: Grey_Idle_519
+    21301040: Grey_Idle_520
+    21301042: Grey_Idle_521
+    21301044: Grey_Idle_522
+    21301046: Grey_Idle_523
+    21301048: Grey_Idle_524
+    21301050: Grey_Idle_525
+    21301052: Grey_Idle_526
+    21301054: Grey_Idle_527
+    21301056: Grey_Idle_528
+    21301058: Grey_Idle_529
+    21301060: Grey_Idle_530
+    21301062: Grey_Idle_531
+    21301064: Grey_Idle_532
+    21301066: Grey_Idle_533
+    21301068: Grey_Idle_534
+    21301070: Grey_Idle_535
+    21301072: Grey_Idle_536
+    21301074: Grey_Idle_537
+    21301076: Grey_Idle_538
+    21301078: Grey_Idle_539
+    21301080: Grey_Idle_540
+    21301082: Grey_Idle_541
+    21301084: Grey_Idle_542
+    21301086: Grey_Idle_543
+    21301088: Grey_Idle_544
+    21301090: Grey_Idle_545
+    21301092: Grey_Idle_546
+    21301094: Grey_Idle_547
+    21301096: Grey_Idle_548
+    21301098: Grey_Idle_549
+    21301100: Grey_Idle_550
+    21301102: Grey_Idle_551
+    21301104: Grey_Idle_552
+    21301106: Grey_Idle_553
+    21301108: Grey_Idle_554
+    21301110: Grey_Idle_555
+    21301112: Grey_Idle_556
+    21301114: Grey_Idle_557
+    21301116: Grey_Idle_558
+    21301118: Grey_Idle_559
+    21301120: Grey_Idle_560
+    21301122: Grey_Idle_561
+    21301124: Grey_Idle_562
+    21301126: Grey_Idle_563
+    21301128: Grey_Idle_564
+    21301130: Grey_Idle_565
+    21301132: Grey_Idle_566
+    21301134: Grey_Idle_567
+    21301136: Grey_Idle_568
+    21301138: Grey_Idle_569
+    21301140: Grey_Idle_570
+    21301142: Grey_Idle_571
+    21301144: Grey_Idle_572
+    21301146: Grey_Idle_573
+    21301148: Grey_Idle_574
+    21301150: Grey_Idle_575
+    21301152: Grey_Idle_576
+    21301154: Grey_Idle_577
+    21301156: Grey_Idle_578
+    21301158: Grey_Idle_579
+    21301160: Grey_Idle_580
+    21301162: Grey_Idle_581
+    21301164: Grey_Idle_582
+    21301166: Grey_Idle_583
+    21301168: Grey_Idle_584
+    21301170: Grey_Idle_585
+    21301172: Grey_Idle_586
+    21301174: Grey_Idle_587
+    21301176: Grey_Idle_588
+    21301178: Grey_Idle_589
+    21301180: Grey_Idle_590
+    21301182: Grey_Idle_591
+    21301184: Grey_Idle_592
+    21301186: Grey_Idle_593
+    21301188: Grey_Idle_594
+    21301190: Grey_Idle_595
+    21301192: Grey_Idle_596
+    21301194: Grey_Idle_597
+    21301196: Grey_Idle_598
+    21301198: Grey_Idle_599
+    21301200: Grey_Idle_600
+    21301202: Grey_Idle_601
+    21301204: Grey_Idle_602
+    21301206: Grey_Idle_603
+    21301208: Grey_Idle_604
+    21301210: Grey_Idle_605
+    21301212: Grey_Idle_606
+    21301214: Grey_Idle_607
+    21301216: Grey_Idle_608
+    21301218: Grey_Idle_609
+    21301220: Grey_Idle_610
+    21301222: Grey_Idle_611
+    21301224: Grey_Idle_612
+    21301226: Grey_Idle_613
+    21301228: Grey_Idle_614
+    21301230: Grey_Idle_615
+    21301232: Grey_Idle_616
+    21301234: Grey_Idle_617
+    21301236: Grey_Idle_618
+    21301238: Grey_Idle_619
+    21301240: Grey_Idle_620
+    21301242: Grey_Idle_621
+    21301244: Grey_Idle_622
+    21301246: Grey_Idle_623
+    21301248: Grey_Idle_624
+    21301250: Grey_Idle_625
+    21301252: Grey_Idle_626
+    21301254: Grey_Idle_627
+    21301256: Grey_Idle_628
+    21301258: Grey_Idle_629
+    21301260: Grey_Idle_630
+    21301262: Grey_Idle_631
+    21301264: Grey_Idle_632
+    21301266: Grey_Idle_633
+    21301268: Grey_Idle_634
+    21301270: Grey_Idle_635
+    21301272: Grey_Idle_636
+    21301274: Grey_Idle_637
+    21301276: Grey_Idle_638
+    21301278: Grey_Idle_639
+    21301280: Grey_Idle_640
+    21301282: Grey_Idle_641
+    21301284: Grey_Idle_642
+    21301286: Grey_Idle_643
+    21301288: Grey_Idle_644
+    21301290: Grey_Idle_645
+    21301292: Grey_Idle_646
+    21301294: Grey_Idle_647
+    21301296: Grey_Idle_648
+    21301298: Grey_Idle_649
+    21301300: Grey_Idle_650
+    21301302: Grey_Idle_651
+    21301304: Grey_Idle_652
+    21301306: Grey_Idle_653
+    21301308: Grey_Idle_654
+    21301310: Grey_Idle_655
+    21301312: Grey_Idle_656
+    21301314: Grey_Idle_657
+    21301316: Grey_Idle_658
+    21301318: Grey_Idle_659
+    21301320: Grey_Idle_660
+    21301322: Grey_Idle_661
+    21301324: Grey_Idle_662
+    21301326: Grey_Idle_663
+    21301328: Grey_Idle_664
+    21301330: Grey_Idle_665
+    21301332: Grey_Idle_666
+    21301334: Grey_Idle_667
+    21301336: Grey_Idle_668
+    21301338: Grey_Idle_669
+    21301340: Grey_Idle_670
+    21301342: Grey_Idle_671
+    21301344: Grey_Idle_672
+    21301346: Grey_Idle_673
+    21301348: Grey_Idle_674
+    21301350: Grey_Idle_675
+    21301352: Grey_Idle_676
+    21301354: Grey_Idle_677
+    21301356: Grey_Idle_678
+    21301358: Grey_Idle_679
+    21301360: Grey_Idle_680
+    21301362: Grey_Idle_681
+    21301364: Grey_Idle_682
+    21301366: Grey_Idle_683
+    21301368: Grey_Idle_684
+    21301370: Grey_Idle_685
+    21301372: Grey_Idle_686
+    21301374: Grey_Idle_687
+    21301376: Grey_Idle_688
+    21301378: Grey_Idle_689
+    21301380: Grey_Idle_690
+    21301382: Grey_Idle_691
+    21301384: Grey_Idle_692
+    21301386: Grey_Idle_693
+    21301388: Grey_Idle_694
+    21301390: Grey_Idle_695
+    21301392: Grey_Idle_696
+    21301394: Grey_Idle_697
+    21301396: Grey_Idle_698
+    21301398: Grey_Idle_699
+    21301400: Grey_Idle_700
+    21301402: Grey_Idle_701
+    21301404: Grey_Idle_702
+    21301406: Grey_Idle_703
+    21301408: Grey_Idle_704
+    21301410: Grey_Idle_705
+    21301412: Grey_Idle_706
+    21301414: Grey_Idle_707
+    21301416: Grey_Idle_708
+    21301418: Grey_Idle_709
+    21301420: Grey_Idle_710
+    21301422: Grey_Idle_711
+    21301424: Grey_Idle_712
+    21301426: Grey_Idle_713
+    21301428: Grey_Idle_714
+    21301430: Grey_Idle_715
+    21301432: Grey_Idle_716
+    21301434: Grey_Idle_717
+    21301436: Grey_Idle_718
+    21301438: Grey_Idle_719
+    21301440: Grey_Idle_720
+    21301442: Grey_Idle_721
+    21301444: Grey_Idle_722
+    21301446: Grey_Idle_723
+    21301448: Grey_Idle_724
+    21301450: Grey_Idle_725
+    21301452: Grey_Idle_726
+    21301454: Grey_Idle_727
+    21301456: Grey_Idle_728
+    21301458: Grey_Idle_729
+    21301460: Grey_Idle_730
+    21301462: Grey_Idle_731
+    21301464: Grey_Idle_732
+    21301466: Grey_Idle_733
+    21301468: Grey_Idle_734
+    21301470: Grey_Idle_735
+    21301472: Grey_Idle_736
+    21301474: Grey_Idle_737
+    21301476: Grey_Idle_738
+    21301478: Grey_Idle_739
+    21301480: Grey_Idle_740
+    21301482: Grey_Idle_741
+    21301484: Grey_Idle_742
+    21301486: Grey_Idle_743
+    21301488: Grey_Idle_744
+    21301490: Grey_Idle_745
+    21301492: Grey_Idle_746
+    21301494: Grey_Idle_747
+    21301496: Grey_Idle_748
+    21301498: Grey_Idle_749
+    21301500: Grey_Idle_750
+    21301502: Grey_Idle_751
+    21301504: Grey_Idle_752
+    21301506: Grey_Idle_753
+    21301508: Grey_Idle_754
+    21301510: Grey_Idle_755
+    21301512: Grey_Idle_756
+    21301514: Grey_Idle_757
+    21301516: Grey_Idle_758
+    21301518: Grey_Idle_759
+    21301520: Grey_Idle_760
+    21301522: Grey_Idle_761
+    21301524: Grey_Idle_762
+    21301526: Grey_Idle_763
+    21301528: Grey_Idle_764
+    21301530: Grey_Idle_765
+    21301532: Grey_Idle_766
+    21301534: Grey_Idle_767
+    21301536: Grey_Idle_768
+    21301538: Grey_Idle_769
+    21301540: Grey_Idle_770
+    21301542: Grey_Idle_771
+    21301544: Grey_Idle_772
+    21301546: Grey_Idle_773
+    21301548: Grey_Idle_774
+    21301550: Grey_Idle_775
+    21301552: Grey_Idle_776
+    21301554: Grey_Idle_777
+    21301556: Grey_Idle_778
+    21301558: Grey_Idle_779
+    21301560: Grey_Idle_780
+    21301562: Grey_Idle_781
+    21301564: Grey_Idle_782
+    21301566: Grey_Idle_783
+    21301568: Grey_Idle_784
+    21301570: Grey_Idle_785
+    21301572: Grey_Idle_786
+    21301574: Grey_Idle_787
+    21301576: Grey_Idle_788
+    21301578: Grey_Idle_789
+    21301580: Grey_Idle_790
+    21301582: Grey_Idle_791
+    21301584: Grey_Idle_792
+    21301586: Grey_Idle_793
+    21301588: Grey_Idle_794
+    21301590: Grey_Idle_795
+    21301592: Grey_Idle_796
+    21301594: Grey_Idle_797
+    21301596: Grey_Idle_798
+    21301598: Grey_Idle_799
+    21301600: Grey_Idle_800
+    21301602: Grey_Idle_801
+    21301604: Grey_Idle_802
+    21301606: Grey_Idle_803
+    21301608: Grey_Idle_804
+    21301610: Grey_Idle_805
+    21301612: Grey_Idle_806
+    21301614: Grey_Idle_807
+    21301616: Grey_Idle_808
+    21301618: Grey_Idle_809
+    21301620: Grey_Idle_810
+    21301622: Grey_Idle_811
+    21301624: Grey_Idle_812
+    21301626: Grey_Idle_813
+    21301628: Grey_Idle_814
+    21301630: Grey_Idle_815
+    21301632: Grey_Idle_816
+    21301634: Grey_Idle_817
+    21301636: Grey_Idle_818
+    21301638: Grey_Idle_819
+    21301640: Grey_Idle_820
+    21301642: Grey_Idle_821
+    21301644: Grey_Idle_822
+    21301646: Grey_Idle_823
+    21301648: Grey_Idle_824
+    21301650: Grey_Idle_825
+    21301652: Grey_Idle_826
+    21301654: Grey_Idle_827
+    21301656: Grey_Idle_828
+    21301658: Grey_Idle_829
+    21301660: Grey_Idle_830
+    21301662: Grey_Idle_831
+    21301664: Grey_Idle_832
+    21301666: Grey_Idle_833
+    21301668: Grey_Idle_834
+    21301670: Grey_Idle_835
+    21301672: Grey_Idle_836
+    21301674: Grey_Idle_837
+    21301676: Grey_Idle_838
+    21301678: Grey_Idle_839
+    21301680: Grey_Idle_840
+    21301682: Grey_Idle_841
+    21301684: Grey_Idle_842
+    21301686: Grey_Idle_843
+    21301688: Grey_Idle_844
+    21301690: Grey_Idle_845
+    21301692: Grey_Idle_846
+    21301694: Grey_Idle_847
+    21301696: Grey_Idle_848
+    21301698: Grey_Idle_849
+    21301700: Grey_Idle_850
+    21301702: Grey_Idle_851
+    21301704: Grey_Idle_852
+    21301706: Grey_Idle_853
+    21301708: Grey_Idle_854
+    21301710: Grey_Idle_855
+    21301712: Grey_Idle_856
+    21301714: Grey_Idle_857
+    21301716: Grey_Idle_858
+    21301718: Grey_Idle_859
+    21301720: Grey_Idle_860
+    21301722: Grey_Idle_861
+    21301724: Grey_Idle_862
+    21301726: Grey_Idle_863
+    21301728: Grey_Idle_864
+    21301730: Grey_Idle_865
+    21301732: Grey_Idle_866
+    21301734: Grey_Idle_867
+    21301736: Grey_Idle_868
+    21301738: Grey_Idle_869
+    21301740: Grey_Idle_870
+    21301742: Grey_Idle_871
+    21301744: Grey_Idle_872
+    21301746: Grey_Idle_873
+    21301748: Grey_Idle_874
+    21301750: Grey_Idle_875
+    21301752: Grey_Idle_876
+    21301754: Grey_Idle_877
+    21301756: Grey_Idle_878
+    21301758: Grey_Idle_879
+    21301760: Grey_Idle_880
+    21301762: Grey_Idle_881
+    21301764: Grey_Idle_882
+    21301766: Grey_Idle_883
+    21301768: Grey_Idle_884
+    21301770: Grey_Idle_885
+    21301772: Grey_Idle_886
+    21301774: Grey_Idle_887
+    21301776: Grey_Idle_888
+    21301778: Grey_Idle_889
+    21301780: Grey_Idle_890
+    21301782: Grey_Idle_891
+    21301784: Grey_Idle_892
+    21301786: Grey_Idle_893
+    21301788: Grey_Idle_894
+    21301790: Grey_Idle_895
+    21301792: Grey_Idle_896
+    21301794: Grey_Idle_897
+    21301796: Grey_Idle_898
+    21301798: Grey_Idle_899
+    21301800: Grey_Idle_900
+    21301802: Grey_Idle_901
+    21301804: Grey_Idle_902
+    21301806: Grey_Idle_903
+    21301808: Grey_Idle_904
+    21301810: Grey_Idle_905
+    21301812: Grey_Idle_906
+    21301814: Grey_Idle_907
+    21301816: Grey_Idle_908
+    21301818: Grey_Idle_909
+    21301820: Grey_Idle_910
+    21301822: Grey_Idle_911
+    21301824: Grey_Idle_912
+    21301826: Grey_Idle_913
+    21301828: Grey_Idle_914
+    21301830: Grey_Idle_915
+    21301832: Grey_Idle_916
+    21301834: Grey_Idle_917
+    21301836: Grey_Idle_918
+    21301838: Grey_Idle_919
+    21301840: Grey_Idle_920
+    21301842: Grey_Idle_921
+    21301844: Grey_Idle_922
+    21301846: Grey_Idle_923
+    21301848: Grey_Idle_924
+    21301850: Grey_Idle_925
+    21301852: Grey_Idle_926
+    21301854: Grey_Idle_927
+    21301856: Grey_Idle_928
+    21301858: Grey_Idle_929
+    21301860: Grey_Idle_930
+    21301862: Grey_Idle_931
+    21301864: Grey_Idle_932
+    21301866: Grey_Idle_933
+    21301868: Grey_Idle_934
+    21301870: Grey_Idle_935
+    21301872: Grey_Idle_936
+    21301874: Grey_Idle_937
+    21301876: Grey_Idle_938
+    21301878: Grey_Idle_939
+    21301880: Grey_Idle_940
+    21301882: Grey_Idle_941
+    21301884: Grey_Idle_942
+    21301886: Grey_Idle_943
+    21301888: Grey_Idle_944
+    21301890: Grey_Idle_945
+    21301892: Grey_Idle_946
+    21301894: Grey_Idle_947
+    21301896: Grey_Idle_948
+    21301898: Grey_Idle_949
+    21301900: Grey_Idle_950
+    21301902: Grey_Idle_951
+    21301904: Grey_Idle_952
+    21301906: Grey_Idle_953
+    21301908: Grey_Idle_954
+    21301910: Grey_Idle_955
+    21301912: Grey_Idle_956
+    21301914: Grey_Idle_957
+    21301916: Grey_Idle_958
+    21301918: Grey_Idle_959
+    21301920: Grey_Idle_960
+    21301922: Grey_Idle_961
+    21301924: Grey_Idle_962
+    21301926: Grey_Idle_963
+    21301928: Grey_Idle_964
+    21301930: Grey_Idle_965
+    21301932: Grey_Idle_966
+    21301934: Grey_Idle_967
+    21301936: Grey_Idle_968
+    21301938: Grey_Idle_969
+    21301940: Grey_Idle_970
+    21301942: Grey_Idle_971
+    21301944: Grey_Idle_972
+    21301946: Grey_Idle_973
+    21301948: Grey_Idle_974
+    21301950: Grey_Idle_975
+    21301952: Grey_Idle_976
+    21301954: Grey_Idle_977
+    21301956: Grey_Idle_978
+    21301958: Grey_Idle_979
+    21301960: Grey_Idle_980
+    21301962: Grey_Idle_981
+    21301964: Grey_Idle_982
+    21301966: Grey_Idle_983
+    21301968: Grey_Idle_984
+    21301970: Grey_Idle_985
+    21301972: Grey_Idle_986
+    21301974: Grey_Idle_987
+    21301976: Grey_Idle_988
+    21301978: Grey_Idle_989
+    21301980: Grey_Idle_990
+    21301982: Grey_Idle_991
+    21301984: Grey_Idle_992
+    21301986: Grey_Idle_993
+    21301988: Grey_Idle_994
+    21301990: Grey_Idle_995
+    21301992: Grey_Idle_996
+    21301994: Grey_Idle_997
+    21301996: Grey_Idle_998
+    21301998: Grey_Idle_999
+    21302000: Grey_Idle_1000
+    21302002: Grey_Idle_1001
+    21302004: Grey_Idle_1002
+    21302006: Grey_Idle_1003
+    21302008: Grey_Idle_1004
+    21302010: Grey_Idle_1005
+    21302012: Grey_Idle_1006
+    21302014: Grey_Idle_1007
+    21302016: Grey_Idle_1008
+    21302018: Grey_Idle_1009
+    21302020: Grey_Idle_1010
+    21302022: Grey_Idle_1011
+    21302024: Grey_Idle_1012
+    21302026: Grey_Idle_1013
+    21302028: Grey_Idle_1014
+    21302030: Grey_Idle_1015
+    21302032: Grey_Idle_1016
+    21302034: Grey_Idle_1017
+    21302036: Grey_Idle_1018
+    21302038: Grey_Idle_1019
+    21302040: Grey_Idle_1020
+    21302042: Grey_Idle_1021
+    21302044: Grey_Idle_1022
+    21302046: Grey_Idle_1023
+    21302048: Grey_Idle_1024
+    21302050: Grey_Idle_1025
+    21302052: Grey_Idle_1026
+    21302054: Grey_Idle_1027
+    21302056: Grey_Idle_1028
+    21302058: Grey_Idle_1029
+    21302060: Grey_Idle_1030
+    21302062: Grey_Idle_1031
+    21302064: Grey_Idle_1032
+    21302066: Grey_Idle_1033
+    21302068: Grey_Idle_1034
+    21302070: Grey_Idle_1035
+    21302072: Grey_Idle_1036
+    21302074: Grey_Idle_1037
+    21302076: Grey_Idle_1038
+    21302078: Grey_Idle_1039
+    21302080: Grey_Idle_1040
+    21302082: Grey_Idle_1041
+    21302084: Grey_Idle_1042
+    21302086: Grey_Idle_1043
+    21302088: Grey_Idle_1044
+    21302090: Grey_Idle_1045
+    21302092: Grey_Idle_1046
+    21302094: Grey_Idle_1047
+    21302096: Grey_Idle_1048
+    21302098: Grey_Idle_1049
+    21302100: Grey_Idle_1050
+    21302102: Grey_Idle_1051
+    21302104: Grey_Idle_1052
+    21302106: Grey_Idle_1053
+    21302108: Grey_Idle_1054
+    21302110: Grey_Idle_1055
+    21302112: Grey_Idle_1056
+    21302114: Grey_Idle_1057
+    21302116: Grey_Idle_1058
+    21302118: Grey_Idle_1059
+    21302120: Grey_Idle_1060
+    21302122: Grey_Idle_1061
+    21302124: Grey_Idle_1062
+    21302126: Grey_Idle_1063
+    21302128: Grey_Idle_1064
+    21302130: Grey_Idle_1065
+    21302132: Grey_Idle_1066
+    21302134: Grey_Idle_1067
+    21302136: Grey_Idle_1068
+    21302138: Grey_Idle_1069
+    21302140: Grey_Idle_1070
+    21302142: Grey_Idle_1071
+    21302144: Grey_Idle_1072
+    21302146: Grey_Idle_1073
+    21302148: Grey_Idle_1074
+    21302150: Grey_Idle_1075
+    21302152: Grey_Idle_1076
+    21302154: Grey_Idle_1077
+    21302156: Grey_Idle_1078
+    21302158: Grey_Idle_1079
+    21302160: Grey_Idle_1080
+    21302162: Grey_Idle_1081
+    21302164: Grey_Idle_1082
+    21302166: Grey_Idle_1083
+    21302168: Grey_Idle_1084
+    21302170: Grey_Idle_1085
+    21302172: Grey_Idle_1086
+    21302174: Grey_Idle_1087
+    21302176: Grey_Idle_1088
+    21302178: Grey_Idle_1089
+    21302180: Grey_Idle_1090
+    21302182: Grey_Idle_1091
+    21302184: Grey_Idle_1092
+    21302186: Grey_Idle_1093
+    21302188: Grey_Idle_1094
+    21302190: Grey_Idle_1095
+    21302192: Grey_Idle_1096
+    21302194: Grey_Idle_1097
+    21302196: Grey_Idle_1098
+    21302198: Grey_Idle_1099
+    21302200: Grey_Idle_1100
+    21302202: Grey_Idle_1101
+    21302204: Grey_Idle_1102
+    21302206: Grey_Idle_1103
+    21302208: Grey_Idle_1104
+    21302210: Grey_Idle_1105
+    21302212: Grey_Idle_1106
+    21302214: Grey_Idle_1107
+    21302216: Grey_Idle_1108
+    21302218: Grey_Idle_1109
+    21302220: Grey_Idle_1110
+    21302222: Grey_Idle_1111
+    21302224: Grey_Idle_1112
+    21302226: Grey_Idle_1113
+    21302228: Grey_Idle_1114
+    21302230: Grey_Idle_1115
+    21302232: Grey_Idle_1116
+    21302234: Grey_Idle_1117
+    21302236: Grey_Idle_1118
+    21302238: Grey_Idle_1119
+    21302240: Grey_Idle_1120
+    21302242: Grey_Idle_1121
+    21302244: Grey_Idle_1122
+    21302246: Grey_Idle_1123
+    21302248: Grey_Idle_1124
+    21302250: Grey_Idle_1125
+    21302252: Grey_Idle_1126
+    21302254: Grey_Idle_1127
+    21302256: Grey_Idle_1128
+    21302258: Grey_Idle_1129
+    21302260: Grey_Idle_1130
+    21302262: Grey_Idle_1131
+    21302264: Grey_Idle_1132
+    21302266: Grey_Idle_1133
+    21302268: Grey_Idle_1134
+    21302270: Grey_Idle_1135
+    21302272: Grey_Idle_1136
+    21302274: Grey_Idle_1137
+    21302276: Grey_Idle_1138
+    21302278: Grey_Idle_1139
+    21302280: Grey_Idle_1140
+    21302282: Grey_Idle_1141
+    21302284: Grey_Idle_1142
+    21302286: Grey_Idle_1143
+    21302288: Grey_Idle_1144
+    21302290: Grey_Idle_1145
+    21302292: Grey_Idle_1146
+    21302294: Grey_Idle_1147
+    21302296: Grey_Idle_1148
+    21302298: Grey_Idle_1149
+    21302300: Grey_Idle_1150
+    21302302: Grey_Idle_1151
+    21302304: Grey_Idle_1152
+    21302306: Grey_Idle_1153
+    21302308: Grey_Idle_1154
+    21302310: Grey_Idle_1155
+    21302312: Grey_Idle_1156
+    21302314: Grey_Idle_1157
+    21302316: Grey_Idle_1158
+    21302318: Grey_Idle_1159
+    21302320: Grey_Idle_1160
+    21302322: Grey_Idle_1161
+    21302324: Grey_Idle_1162
+    21302326: Grey_Idle_1163
+    21302328: Grey_Idle_1164
+    21302330: Grey_Idle_1165
+    21302332: Grey_Idle_1166
+    21302334: Grey_Idle_1167
+    21302336: Grey_Idle_1168
+    21302338: Grey_Idle_1169
+    21302340: Grey_Idle_1170
+    21302342: Grey_Idle_1171
+    21302344: Grey_Idle_1172
+    21302346: Grey_Idle_1173
+    21302348: Grey_Idle_1174
+    21302350: Grey_Idle_1175
+    21302352: Grey_Idle_1176
+    21302354: Grey_Idle_1177
+    21302356: Grey_Idle_1178
+    21302358: Grey_Idle_1179
+    21302360: Grey_Idle_1180
+    21302362: Grey_Idle_1181
+    21302364: Grey_Idle_1182
+    21302366: Grey_Idle_1183
+    21302368: Grey_Idle_1184
+    21302370: Grey_Idle_1185
+    21302372: Grey_Idle_1186
+    21302374: Grey_Idle_1187
+    21302376: Grey_Idle_1188
+    21302378: Grey_Idle_1189
+    21302380: Grey_Idle_1190
+    21302382: Grey_Idle_1191
+    21302384: Grey_Idle_1192
+    21302386: Grey_Idle_1193
+    21302388: Grey_Idle_1194
+    21302390: Grey_Idle_1195
+    21302392: Grey_Idle_1196
+    21302394: Grey_Idle_1197
+    21302396: Grey_Idle_1198
+    21302398: Grey_Idle_1199
+    21302400: Grey_Idle_1200
+    21302402: Grey_Idle_1201
+    21302404: Grey_Idle_1202
+    21302406: Grey_Idle_1203
+    21302408: Grey_Idle_1204
+    21302410: Grey_Idle_1205
+    21302412: Grey_Idle_1206
+    21302414: Grey_Idle_1207
+    21302416: Grey_Idle_1208
+    21302418: Grey_Idle_1209
+    21302420: Grey_Idle_1210
+    21302422: Grey_Idle_1211
+    21302424: Grey_Idle_1212
+    21302426: Grey_Idle_1213
+    21302428: Grey_Idle_1214
+    21302430: Grey_Idle_1215
+    21302432: Grey_Idle_1216
+    21302434: Grey_Idle_1217
+    21302436: Grey_Idle_1218
+    21302438: Grey_Idle_1219
+    21302440: Grey_Idle_1220
+    21302442: Grey_Idle_1221
+    21302444: Grey_Idle_1222
+    21302446: Grey_Idle_1223
+    21302448: Grey_Idle_1224
+    21302450: Grey_Idle_1225
+    21302452: Grey_Idle_1226
+    21302454: Grey_Idle_1227
+    21302456: Grey_Idle_1228
+    21302458: Grey_Idle_1229
+    21302460: Grey_Idle_1230
+    21302462: Grey_Idle_1231
+    21302464: Grey_Idle_1232
+    21302466: Grey_Idle_1233
+    21302468: Grey_Idle_1234
+    21302470: Grey_Idle_1235
+    21302472: Grey_Idle_1236
+    21302474: Grey_Idle_1237
+    21302476: Grey_Idle_1238
+    21302478: Grey_Idle_1239
+    21302480: Grey_Idle_1240
+    21302482: Grey_Idle_1241
+    21302484: Grey_Idle_1242
+    21302486: Grey_Idle_1243
+    21302488: Grey_Idle_1244
+    21302490: Grey_Idle_1245
+    21302492: Grey_Idle_1246
+    21302494: Grey_Idle_1247
+    21302496: Grey_Idle_1248
+    21302498: Grey_Idle_1249
+    21302500: Grey_Idle_1250
+    21302502: Grey_Idle_1251
+    21302504: Grey_Idle_1252
+    21302506: Grey_Idle_1253
+    21302508: Grey_Idle_1254
+    21302510: Grey_Idle_1255
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 10
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grey_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.656491, y: -397.87582}
+        - {x: -2.6208465, y: -422.1696}
+        - {x: 0.4147979, y: -425.20633}
+        - {x: 91.48413, y: -425.20633}
+        - {x: 91.48413, y: 426.5}
+        - {x: -78.511955, y: 426.5}
+        - {x: -142.2605, y: 300.57056}
+        - {x: -142.2605, y: -303.7374}
+        - {x: -96.72582, y: -425.20633}
+        - {x: -2.6208465, y: -425.20633}
+        - {x: -2.6208465, y: -422.1696}
+        - {x: -5.656491, y: -410.0227}
+        - {x: -5.656491, y: -391.80237}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.323959, y: -382.6922}
+        - {x: -2.2170265, y: -394.83908}
+        - {x: 0.81861794, y: -397.87582}
+        - {x: 0.81861794, y: -422.1696}
+        - {x: 3.8542624, y: -425.20633}
+        - {x: 97.959236, y: -425.20633}
+        - {x: 97.959236, y: 426.5}
+        - {x: -38.64476, y: 426.5}
+        - {x: -141.85667, y: 255.0197}
+        - {x: -141.85667, y: -167.08484}
+        - {x: -105.42894, y: -425.20633}
+        - {x: -2.2170265, y: -425.20633}
+        - {x: 0.81861794, y: -422.1696}
+        - {x: 0.81861794, y: -413.05942}
+        - {x: -2.2170265, y: -403.94925}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1164
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.597328, y: -223.78255}
+        - {x: -6.4903946, y: -196.45203}
+        - {x: -15.597328, y: -314.88425}
+        - {x: -12.561684, y: -402.94922}
+        - {x: -3.45475, y: -405.98593}
+        - {x: -3.45475, y: -426.5}
+        - {x: 96.72152, y: -426.5}
+        - {x: 96.72152, y: 423.03952}
+        - {x: -64.16764, y: 423.03952}
+        - {x: -143, y: 274.24008}
+        - {x: -143, y: -129.64412}
+        - {x: -97.55973, y: -426.5}
+        - {x: -3.45475, y: -426.5}
+        - {x: -3.45475, y: -421.16956}
+        - {x: -9.526039, y: -405.98593}
+        - {x: -21.668617, y: -393.83905}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.264831, y: -273.37015}
+        - {x: -2.1935422, y: -388.76562}
+        - {x: 3.8777468, y: -422.1696}
+        - {x: 6.913391, y: -425.20633}
+        - {x: 88.87579, y: -425.20633}
+        - {x: 91.91144, y: -422.1696}
+        - {x: 110.125305, y: -103.31365}
+        - {x: 110.125305, y: 370.4152}
+        - {x: 88.87579, y: 426.5}
+        - {x: -14.33612, y: 426.5}
+        - {x: -78.084656, y: 412.92932}
+        - {x: -141.83319, y: 215.5423}
+        - {x: -141.83319, y: -106.35037}
+        - {x: -90.227234, y: -425.20633}
+        - {x: 0.8421023, y: -425.20633}
+        - {x: 3.8777468, y: -422.1696}
+        - {x: 0.8421023, y: -406.986}
+        - {x: -14.33612, y: -385.7289}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.1462572, y: -397.87582}
+        - {x: -0.11061278, y: -400.91254}
+        - {x: -0.11061278, y: -422.1696}
+        - {x: 2.9250317, y: -425.20633}
+        - {x: 97.03001, y: -425.20633}
+        - {x: 103.101295, y: -337.14136}
+        - {x: 103.101295, y: 409.89258}
+        - {x: 100.06565, y: 425.0762}
+        - {x: -12.25319, y: 425.0762}
+        - {x: -69.930435, y: 400.7824}
+        - {x: -142.7859, y: 197.32196}
+        - {x: -142.7859, y: -130.64417}
+        - {x: -97.251236, y: -425.20633}
+        - {x: -3.1462572, y: -425.20633}
+        - {x: -0.11061278, y: -422.1696}
+        - {x: -0.11061278, y: -416.09616}
+        - {x: -18.32448, y: -376.61874}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1162
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5997486, y: -234.8927}
+        - {x: -5.5997486, y: -398.87576}
+        - {x: 0.4715402, y: -426.20627}
+        - {x: 97.61216, y: -426.20627}
+        - {x: 106.71909, y: -174.15823}
+        - {x: 106.71909, y: 390.6723}
+        - {x: 82.43394, y: 424.07626}
+        - {x: -2.5641043, y: 424.07626}
+        - {x: -42.02748, y: 411.92935}
+        - {x: -142.20375, y: 266.16666}
+        - {x: -142.20375, y: -423.16956}
+        - {x: -123.98988, y: -426.20627}
+        - {x: 0.4715402, y: -426.20627}
+        - {x: 0.4715402, y: -423.16956}
+        - {x: -5.5997486, y: -401.91248}
+        - {x: -17.742327, y: -365.4718}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.58819, y: 415.96603}
+        - {x: -121.58623, y: 367.37845}
+        - {x: -142.83574, y: 309.68073}
+        - {x: -142.83574, y: -337.14136}
+        - {x: -133.7288, y: -425.20633}
+        - {x: 103.05146, y: -425.20633}
+        - {x: 106.087105, y: -394.83908}
+        - {x: 106.087105, y: 415.96603}
+      - - {x: -9.267386, y: -400.91254}
+        - {x: -21.409964, y: -391.80237}
+        - {x: -21.409964, y: -373.58203}
+        - {x: -12.303031, y: -297.66394}
+        - {x: -12.303031, y: -285.51706}
+        - {x: -15.3386755, y: -142.79105}
+        - {x: -12.303031, y: -139.75433}
+        - {x: -18.37432, y: -127.60744}
+        - {x: -18.37432, y: -139.75433}
+        - {x: -9.267386, y: -148.8645}
+        - {x: -9.267386, y: -215.67241}
+        - {x: -12.303031, y: -294.62723}
+        - {x: -18.37432, y: -382.6922}
+        - {x: -18.37432, y: -394.83908}
+        - {x: -9.267386, y: -403.94925}
+        - {x: -6.2317424, y: -413.05942}
+        - {x: -6.2317424, y: -410.0227}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.15133, y: 409.89258}
+        - {x: -18.5596, y: 409.89258}
+        - {x: -143, y: 224.65247}
+        - {x: -143, y: -154.93794}
+        - {x: -106.59329, y: -425.20633}
+        - {x: 99.83053, y: -425.20633}
+        - {x: 102.86617, y: -91.166756}
+        - {x: 133.22263, y: 157.84456}
+        - {x: 133.22263, y: 385.59882}
+      - - {x: -0.34573442, y: -397.87582}
+        - {x: 2.68991, y: -300.70065}
+        - {x: 2.68991, y: -249.07637}
+        - {x: 5.7255545, y: -212.63568}
+        - {x: 2.68991, y: -388.76562}
+        - {x: 2.68991, y: -394.83908}
+        - {x: 8.761199, y: -400.91254}
+        - {x: 5.7255545, y: -397.87582}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.6850927, y: -422.1696}
+        - {x: 5.720737, y: -425.20633}
+        - {x: 87.683136, y: -425.20633}
+        - {x: 90.71878, y: -422.1696}
+        - {x: 105.897, y: -391.80237}
+        - {x: 130.18216, y: -167.08484}
+        - {x: 130.18216, y: 400.7824}
+        - {x: 118.03958, y: 403.81915}
+        - {x: -48.920864, y: 403.81915}
+        - {x: -143, y: 303.60727}
+        - {x: -143, y: -303.7374}
+        - {x: -121.77633, y: -425.20633}
+        - {x: 2.6850927, y: -425.20633}
+        - {x: -0.35055172, y: -410.0227}
+        - {x: -9.457485, y: -379.65546}
+        - {x: -0.35055172, y: -397.87582}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 1163
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.19571, y: 394.70898}
+        - {x: -24.303312, y: 376.48865}
+        - {x: -142.69345, y: 300.57056}
+        - {x: -142.69345, y: -331.0679}
+        - {x: -130.55087, y: -425.20633}
+        - {x: 106.2294, y: -425.20633}
+        - {x: 143, y: -15.248673}
+        - {x: 143, y: 385.59882}
+        - {x: 139.62149, y: 394.70898}
+      - - {x: 9.088776, y: -410.0227}
+        - {x: -9.125091, y: -385.7289}
+        - {x: -6.0894465, y: -361.43512}
+        - {x: 3.0174868, y: -388.76562}
+        - {x: 3.0174868, y: -406.986}
+        - {x: 9.088776, y: -413.05942}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5573761, y: -426.3164}
+        - {x: 93.62671, y: -426.3164}
+        - {x: 96.66235, y: -423.2797}
+        - {x: 130.05444, y: 135.4774}
+        - {x: 130.05444, y: 399.67233}
+        - {x: -3.5139127, y: 399.67233}
+        - {x: -82.44067, y: 378.41525}
+        - {x: -143, y: 247.83617}
+        - {x: -143, y: -107.460464}
+        - {x: -91.5476, y: -426.3164}
+        - {x: 2.5573761, y: -426.3164}
+        - {x: 2.5573761, y: -420.24295}
+        - {x: -3.5139127, y: -405.05936}
+        - {x: 2.5573761, y: -402.0226}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 95
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.28007, y: -426.5}
+        - {x: 88.28007, y: -415.1695}
+        - {x: 82.20878, y: -406.05933}
+        - {x: 103.45829, y: -81.129944}
+        - {x: 121.67216, y: 43.37571}
+        - {x: 121.67216, y: 377.41528}
+        - {x: 106.493935, y: 407.7825}
+        - {x: -24.038778, y: 407.7825}
+        - {x: -142.42891, y: 268.09323}
+        - {x: -142.42891, y: -426.5}
+        - {x: 0.24637745, y: -426.5}
+        - {x: -2.789267, y: -399.9859}
+        - {x: 0.24637745, y: -415.1695}
+        - {x: 3.282022, y: -426.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.327462, y: -426.3164}
+        - {x: 97.43244, y: -426.3164}
+        - {x: 115.64631, y: -7.2485924}
+        - {x: 115.64631, y: 402.70905}
+        - {x: 94.3968, y: 414.85596}
+        - {x: -8.815116, y: 414.85596}
+        - {x: -142.38347, y: 269.09323}
+        - {x: -142.38347, y: -153.0113}
+        - {x: -96.8488, y: -426.3164}
+        - {x: 0.29181764, y: -426.3164}
+        - {x: 0.29181764, y: -405.05936}
+        - {x: -14.886405, y: -389.87573}
+        - {x: -2.7438269, y: -386.839}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.30154487, y: -426.3164}
+        - {x: 94.406525, y: -426.3164}
+        - {x: 100.47781, y: -64.946335}
+        - {x: 112.62039, y: 105.11017}
+        - {x: 112.62039, y: 399.67233}
+        - {x: 97.44217, y: 417.89267}
+        - {x: -36.12619, y: 417.89267}
+        - {x: -142.37375, y: 226.5791}
+        - {x: -142.37375, y: -156.04803}
+        - {x: -93.80344, y: -426.3164}
+        - {x: 0.30154487, y: -426.3164}
+        - {x: -2.7340996, y: -411.13278}
+        - {x: -5.769744, y: -238.03957}
+        - {x: -2.7340996, y: -398.9859}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.938257, y: -402.0226}
+        - {x: 0.13303179, y: -426.3164}
+        - {x: 88.16672, y: -426.3164}
+        - {x: 97.27365, y: -417.20624}
+        - {x: 94.23801, y: 29.192087}
+        - {x: 109.41623, y: 208.35876}
+        - {x: 109.41623, y: 390.56216}
+        - {x: 88.16672, y: 423.96613}
+        - {x: -30.223413, y: 423.96613}
+        - {x: -66.651146, y: 417.89267}
+        - {x: -142.54225, y: 281.2401}
+        - {x: -142.54225, y: -244.113}
+        - {x: -124.32839, y: -411.13278}
+        - {x: -90.9363, y: -426.3164}
+        - {x: 0.13303179, y: -426.3164}
+        - {x: -2.9026127, y: -411.13278}
+        - {x: -12.009546, y: -402.0226}
+        - {x: -5.938257, y: -377.72882}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.855162, y: 420.92938}
+        - {x: -42.14032, y: 399.67233}
+        - {x: -142.31659, y: 259.98306}
+        - {x: -142.31659, y: -122.64408}
+        - {x: -108.92449, y: -426.3164}
+        - {x: 106.60626, y: -426.3164}
+        - {x: 115.713196, y: -37.615826}
+        - {x: 115.713196, y: 408.7825}
+        - {x: 76.24982, y: 420.92938}
+      - - {x: -2.6769404, y: -398.9859}
+        - {x: -11.783874, y: -389.87573}
+        - {x: -8.748229, y: -228.9294}
+        - {x: -8.748229, y: -159.08476}
+        - {x: -5.712585, y: -156.04803}
+        - {x: -8.748229, y: -192.48871}
+        - {x: -8.748229, y: -204.6356}
+        - {x: 0.3587041, y: -213.74577}
+        - {x: -5.712585, y: -392.91245}
+        - {x: -5.712585, y: -398.9859}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.29922888, y: -131.75424}
+        - {x: 0.29922888, y: -398.9859}
+        - {x: 3.3348732, y: -402.0226}
+        - {x: 3.3348732, y: -426.3164}
+        - {x: 109.58243, y: -426.3164}
+        - {x: 115.65372, y: -262.33334}
+        - {x: 115.65372, y: 405.7458}
+        - {x: 100.475494, y: 414.85596}
+        - {x: -96.84139, y: 414.85596}
+        - {x: -142.37605, y: 229.61583}
+        - {x: -142.37605, y: -274.48026}
+        - {x: -90.7701, y: -426.3164}
+        - {x: 3.3348732, y: -426.3164}
+        - {x: 3.3348732, y: -420.24295}
+        - {x: -14.878993, y: -377.72882}
+        - {x: 0.29922888, y: -146.93787}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 95
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121.2001, y: -290.66385}
+        - {x: 121.2001, y: 404.7458}
+        - {x: -142.90096, y: 404.7458}
+        - {x: -142.90096, y: -412.13278}
+        - {x: -115.58016, y: -426.5}
+        - {x: 2.809972, y: -426.5}
+        - {x: -0.2256723, y: -412.13278}
+        - {x: 2.809972, y: -426.5}
+        - {x: 99.95059, y: -426.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.17824036, y: -143.90114}
+        - {x: 3.2138848, y: -162.12148}
+        - {x: 0.17824036, y: -386.839}
+        - {x: 6.2495294, y: -426.3164}
+        - {x: 100.35451, y: -426.3164}
+        - {x: 133.7466, y: -259.29663}
+        - {x: 133.7466, y: 399.67233}
+        - {x: 6.2495294, y: 399.67233}
+        - {x: -18.035625, y: 372.34183}
+        - {x: -142.49706, y: 211.3955}
+        - {x: -142.49706, y: -286.62714}
+        - {x: -103.03367, y: -426.3164}
+        - {x: 3.2138848, y: -426.3164}
+        - {x: 3.2138848, y: -414.16953}
+        - {x: 0.17824036, y: -405.05936}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 95
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: 31.228819}
+        - {x: 143, y: 359.19495}
+        - {x: 140.04318, y: 365.26837}
+        - {x: 91.47288, y: 395.63562}
+        - {x: 27.724342, y: 395.63562}
+        - {x: -105.84401, y: 252.90962}
+        - {x: -142.27174, y: 189.13843}
+        - {x: -142.27174, y: -129.71751}
+        - {x: -78.52322, y: -426.5}
+        - {x: 9.510475, y: -426.5}
+        - {x: 6.474831, y: -412.13278}
+        - {x: 9.510475, y: -426.5}
+        - {x: 103.615456, y: -426.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 4796
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: 369.30508}
+        - {x: 99.857956, y: 396.63562}
+        - {x: 14.859909, y: 396.63562}
+        - {x: -142.9936, y: 263.01978}
+        - {x: -142.9936, y: -292.7006}
+        - {x: -121.74409, y: -426.3164}
+        - {x: 99.857956, y: -426.3164}
+        - {x: 115.03618, y: -395.9492}
+        - {x: 143, y: 187.1017}
+        - {x: 143, y: 357.1582}
+      - - {x: 2.7173316, y: -402.0226}
+        - {x: -6.3896017, y: -392.91245}
+        - {x: -3.3539572, y: -398.9859}
+        - {x: 5.752976, y: -408.09607}
+        - {x: 8.788621, y: -405.05936}
+        - {x: 5.752976, y: -402.0226}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.4251757, y: -386.839}
+        - {x: 9.46082, y: -426.3164}
+        - {x: 115.708374, y: -426.3164}
+        - {x: 143, y: 10.971747}
+        - {x: 143, y: 360.19492}
+        - {x: 124.81531, y: 387.52545}
+        - {x: 6.4251757, y: 387.52545}
+        - {x: -30.002558, y: 375.37854}
+        - {x: -142.3214, y: 223.54237}
+        - {x: -142.3214, y: -131.75424}
+        - {x: -93.75109, y: -426.3164}
+        - {x: 9.46082, y: -426.3164}
+        - {x: 9.46082, y: -414.16953}
+        - {x: 6.4251757, y: -405.05936}
+        - {x: 3.3895311, y: -353.43506}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 5778
+        y: 96
+        width: 286
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.456003, y: 387.52545}
+        - {x: -143, y: 266.05652}
+        - {x: -143, y: -171.23164}
+        - {x: -82.31147, y: -426.3164}
+        - {x: 118.04106, y: -426.3164}
+        - {x: 143, y: -61.90961}
+        - {x: 143, y: 387.52545}
+      - - {x: -0.34906948, y: -402.0226}
+        - {x: -6.420358, y: -389.87573}
+        - {x: 2.686575, y: -389.87573}
+        - {x: 8.757864, y: -405.05936}
+        - {x: 5.7222195, y: -402.0226}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
