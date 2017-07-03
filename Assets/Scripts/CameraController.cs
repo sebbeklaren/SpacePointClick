@@ -10,7 +10,7 @@ public class CameraController : MonoBehaviour {
     void Start()
     {
         //target = GameObject.FindGameObjectWithTag("Boss").transform;
-
+        DontDestroyOnLoad(gameObject);
     }
 
 

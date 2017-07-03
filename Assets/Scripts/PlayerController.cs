@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour {
 
     private bool walking;
-    private bool doorClick;
+    public bool doorClick;
     private bool mountainClicked;
 
     public  Vector2 currentPos, lastPos;
@@ -29,6 +29,7 @@ public class PlayerController : MonoBehaviour {
 
     void Start ()
     {
+        DontDestroyOnLoad(gameObject);
         controller = GetComponent<CharacterController>();
         isMoving = false;        
     }
@@ -62,11 +63,14 @@ public class PlayerController : MonoBehaviour {
                     mountainClicked = true;
                    // Debug.Log("Träff");
                 }
-                if(hit.collider.CompareTag("DoorOut"))
+                if(hit.collider.CompareTag("DoorOut") && Vector2.Distance(GameObject.FindGameObjectWithTag("DoorOut").transform.position, gameObject.transform.position) < 4)
                 {
                     targetedDoor = hit.transform;
                     doorClick = true;
-                   // Debug.Log("Träff door");                    
+                    // Debug.Log("Träff door");
+                    isMoving = false;
+                    gameObject.transform.position = new Vector3(-11f, currentPos.y, 3.2f);
+                    //currentTargetX.x = -11f;
                 }
                 else if(!hit.collider.CompareTag("DoorOut") && !hit.collider.CompareTag("Mountain"))
                 {
@@ -90,6 +94,7 @@ public class PlayerController : MonoBehaviour {
                currentTargetX = new Vector3(hit.point.x, -2.25f, 3.34f);
             }           
         }
+        //Debug.Log(hit.point);
         //Debug.Log(currentTargetX + " position: " + transform.position);
         currentVelocityMod = Vector3.MoveTowards(transform.position, currentTargetX, 2 * Time.deltaTime);  
 

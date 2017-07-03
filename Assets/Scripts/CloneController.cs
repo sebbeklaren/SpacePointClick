@@ -18,19 +18,25 @@ public class CloneController : MonoBehaviour {
 
 	void Start ()
     {
+        DontDestroyOnLoad(gameObject);
         isMoving = false;
 	}
 	
 	
 	void Update ()
     {
-        
+       
 
-        if(Vector2.Distance(cloneTarget.position, transform.position) <= 9 &&
+        if (Vector2.Distance(cloneTarget.position, transform.position) <= 9 &&
             !GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().isMoving)
         {
             //Debug.Log("Nära: " + Vector2.Distance(GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().robotTargetPos, transform.position));
             isMoving = false;
+            if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().doorClick)
+            {
+                gameObject.transform.position = new Vector3(-11f, transform.position.y, 3.2f);
+                Debug.Log("Out");
+            }
         }
 
         if (currentPos == lastPos)
@@ -42,7 +48,7 @@ public class CloneController : MonoBehaviour {
 
         currentPos = transform.position;
 
-        if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().isMoving && Vector2.Distance(cloneTarget.position, transform.position) >= 3)
+        if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().isMoving && Vector2.Distance(cloneTarget.position, transform.position) >= 2)
         {
             isMoving = true;
             targetPos = new Vector2(cloneTarget.position.x, 0);
@@ -63,7 +69,8 @@ public class CloneController : MonoBehaviour {
             transform.position = new Vector3(currentVeclocityMod.x, -3.88f, 3.4f);
         }
         currentPos = transform.position;
-        Debug.Log(isMoving);
-	}
+        
+        //Debug.Log(isMoving);
+    }
     
 }
