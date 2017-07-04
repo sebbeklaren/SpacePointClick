@@ -34,7 +34,7 @@ public class CloneController : MonoBehaviour {
             isMoving = false;
             if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().doorClick)
             {
-                gameObject.transform.position = new Vector3(-11f, transform.position.y, 3.2f);
+                gameObject.transform.position = new Vector3(-11f, -1.8f, 3.2f);
                 Debug.Log("Out");
             }
         }
@@ -66,7 +66,7 @@ public class CloneController : MonoBehaviour {
         
         if(targetPos.x != transform.position.x && isMoving)
         {
-            transform.position = new Vector3(currentVeclocityMod.x, -3.88f, 3.4f);
+            transform.position = new Vector3(currentVeclocityMod.x, -1.8f, 3.4f);
         }
         currentPos = transform.position;
         
