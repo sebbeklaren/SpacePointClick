@@ -35,7 +35,7 @@ public class CloneController : MonoBehaviour {
             if (GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().doorClick)
             {
                 gameObject.transform.position = new Vector3(-11f, -1.8f, 3.2f);
-                Debug.Log("Out");
+               // Debug.Log("Out");
             }
         }
 

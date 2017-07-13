@@ -34,18 +34,16 @@ public class PlayerController : MonoBehaviour {
         isMoving = false;        
     }
 	
-	// Update is called once per frame
+	
 	void Update ()
-    {
-        //robotTargetPos =  robotTarget.position;
-
-        if (Vector2.Distance(currentPos, hit.point) <= 2)
+    {        
+        //här det var fel, karaktären fortsatte gå om man klickade högt eller lågt i y-led
+        if (Vector3.Distance(currentPos, new Vector3(hit.point.x, -3.06f, 3.36f)) <= 4.0f)
         {
             isMoving = false;
         }
         lastPos = currentPos;
-        Movement();
-        //Debug.Log(isMoving);
+        Movement();      
     }  
 
     void Movement()
@@ -60,23 +58,19 @@ public class PlayerController : MonoBehaviour {
                 if(hit.collider.CompareTag("Mountain"))
                 {
                     targetedMountain = hit.transform;
-                    mountainClicked = true;
-                   // Debug.Log("Träff");
+                    mountainClicked = true;                   
                 }
                 if(hit.collider.CompareTag("DoorOut") && Vector2.Distance(GameObject.FindGameObjectWithTag("DoorOut").transform.position, gameObject.transform.position) < 4)
                 {
                     targetedDoor = hit.transform;
-                    doorClick = true;
-                    // Debug.Log("Träff door");
+                    doorClick = true;                    
                     isMoving = false;
                     gameObject.transform.position = new Vector3(-11f, currentPos.y, 3.2f);
-                    //currentTargetX.x = -11f;
+                   
                 }
-                else if(!hit.collider.CompareTag("DoorOut") && !hit.collider.CompareTag("Mountain"))
-                {
+                else if(!hit.collider.CompareTag("DoorOut") && !hit.collider.CompareTag("Mountain"))                {
                     doorClick = false;
-                    mountainClicked = false;                    
-                   // Debug.Log("Ingen träff");
+                    mountainClicked = false;
                 }
                 if(Vector2.Distance(GameObject.FindGameObjectWithTag("DoorOut").transform.position, transform.position) <= 4 && hit.collider.CompareTag("DoorOut"))
                 {
@@ -91,17 +85,15 @@ public class PlayerController : MonoBehaviour {
             else if (hit.point.x <= transform.position.x)
             {
                 flipCharacter = true;
-               currentTargetX = new Vector3(hit.point.x, -2.25f, 3.34f);
-            }           
+                currentTargetX = new Vector3(hit.point.x, -2.25f, 3.34f);
+            }
         }
-        //Debug.Log(hit.point);
-        //Debug.Log(currentTargetX + " position: " + transform.position);
-        currentVelocityMod = Vector3.MoveTowards(transform.position, currentTargetX, 2 * Time.deltaTime);  
-
-        if (hit.point.x != transform.position.x && isMoving)
+        currentVelocityMod = Vector3.MoveTowards(transform.position, hit.point, 2 * Time.deltaTime);
+       
+        if (hit.point.x != currentVelocityMod.x && isMoving)
         {
             transform.position = new Vector3(currentVelocityMod.x, -3f, 3.2f);            
-        }
+        }        
         currentPos = transform.position;
     }
 }

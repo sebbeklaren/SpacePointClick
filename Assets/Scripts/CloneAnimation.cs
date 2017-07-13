@@ -20,7 +20,7 @@ public class CloneAnimation : MonoBehaviour {
 		if(GameObject.FindGameObjectWithTag("Clone").GetComponent<CloneController>().isMoving)
         {
             anim.SetInteger("State", 2);
-            Debug.Log("State 2");
+            //Debug.Log("State 2");
             
         }
         else if(!GameObject.FindGameObjectWithTag("Clone").GetComponent<CloneController>().isMoving)
